@@ -1,0 +1,15 @@
+/Users/yuniorrodriguezosorio/Documents/GitHub/leetcode_top_150/consoleApp/bin/Debug/net6.0/consoleApp
+/Users/yuniorrodriguezosorio/Documents/GitHub/leetcode_top_150/consoleApp/bin/Debug/net6.0/consoleApp.deps.json
+/Users/yuniorrodriguezosorio/Documents/GitHub/leetcode_top_150/consoleApp/bin/Debug/net6.0/consoleApp.runtimeconfig.json
+/Users/yuniorrodriguezosorio/Documents/GitHub/leetcode_top_150/consoleApp/bin/Debug/net6.0/consoleApp.dll
+/Users/yuniorrodriguezosorio/Documents/GitHub/leetcode_top_150/consoleApp/bin/Debug/net6.0/consoleApp.pdb
+/Users/yuniorrodriguezosorio/Documents/GitHub/leetcode_top_150/consoleApp/obj/Debug/net6.0/consoleApp.csproj.AssemblyReference.cache
+/Users/yuniorrodriguezosorio/Documents/GitHub/leetcode_top_150/consoleApp/obj/Debug/net6.0/consoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuniorrodriguezosorio/Documents/GitHub/leetcode_top_150/consoleApp/obj/Debug/net6.0/consoleApp.AssemblyInfoInputs.cache
+/Users/yuniorrodriguezosorio/Documents/GitHub/leetcode_top_150/consoleApp/obj/Debug/net6.0/consoleApp.AssemblyInfo.cs
+/Users/yuniorrodriguezosorio/Documents/GitHub/leetcode_top_150/consoleApp/obj/Debug/net6.0/consoleApp.csproj.CoreCompileInputs.cache
+/Users/yuniorrodriguezosorio/Documents/GitHub/leetcode_top_150/consoleApp/obj/Debug/net6.0/consoleApp.dll
+/Users/yuniorrodriguezosorio/Documents/GitHub/leetcode_top_150/consoleApp/obj/Debug/net6.0/refint/consoleApp.dll
+/Users/yuniorrodriguezosorio/Documents/GitHub/leetcode_top_150/consoleApp/obj/Debug/net6.0/consoleApp.pdb
+/Users/yuniorrodriguezosorio/Documents/GitHub/leetcode_top_150/consoleApp/obj/Debug/net6.0/consoleApp.genruntimeconfig.cache
+/Users/yuniorrodriguezosorio/Documents/GitHub/leetcode_top_150/consoleApp/obj/Debug/net6.0/ref/consoleApp.dll
