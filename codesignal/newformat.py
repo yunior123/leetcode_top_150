@@ -1,7 +1,6 @@
 # For s = "We expect the %f%% growth this week", the output should be
 # solution(s) = "We expect the {}% growth this week".
 # pattern to substitute %f% where f is any character
-
 def solution(s):
     newString = ''
     i = 0
