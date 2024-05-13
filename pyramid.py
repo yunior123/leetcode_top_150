@@ -39,7 +39,6 @@ def decode(message_file):
             pyramid.append(current_level)
             current_level = []  
             level_size += 1  
-    print(pyramid)
 
     decoded_words = []
     for level in pyramid:
