@@ -1,19 +1,19 @@
 def isValid(s):
     open_b = []
     dicts = {
-        "(":")",
-        "[":"]",
-        "{":"}"
+        "(": ")",
+        "[": "]",
+        "{": "}"
     }
-    result = True
+    
     for value in s:
-        if value in ["(","[","{"]:
+        if value in dicts:  # Check for opening brackets
             open_b.append(value)
-        elif open_b:
-            last = open_b[-1]
-            if value != dicts[last]:
-                result = False
-                break
+        elif open_b:  # Check if the stack is not empty
+            last = open_b.pop()  # Remove the last opened bracket
+            if value != dicts[last]:  # Check if it matches the closing bracket
+                return False
         else:
-            result = False
-            break
+            return False  # No matching opening bracket
+    
+    return not open_b  # If the stack is empty, all brackets are matched
