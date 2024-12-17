@@ -17,3 +17,4 @@ def isValid(s):
             return False  # No matching opening bracket
     
     return not open_b  # If the stack is empty, all brackets are matched
+    
